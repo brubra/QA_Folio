@@ -1,4 +1,0 @@
-Lenovo laptop - core i7
-Windows 10
-Manual tests were executed using Chrome v. 78
-Accessibility screen reader test using Narrator app
